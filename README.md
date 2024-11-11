@@ -50,8 +50,8 @@
   </style>
 </head>
 <body>
-  /head>
-<body>
+
+  <body>
   <div class="container">
     <a href="https://t.me/LILXTECHINFO/169" class="box">Bugbot File</a>
     <a href="https://t.me/LILXTECHINFO/172" class="box">Premium Apks</a>
