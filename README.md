@@ -52,8 +52,8 @@
 <body>
 
   <div class="container">
-    <a href="https://t.me/LILXTECHINFO/169" class="box">Bugbot File</a>
-    <a href="https://www.mediafire.com/file/pkgssdad3ez1j24/Netflixpremium/file" class="box">Premium Apks</a>
+    <a href="https://www.mediafire.com/file/ys67xc3vdxw1blg/ahackedDstvApp.apk/file" class="box">Dstv premium apk</a>
+    <a href="https://www.mediafire.com/file/pkgssdad3ez1j24/Netflixpremium/file" class="box">Netflix Premium</a>
     <a href="https://f-droid.org/en/packages/com.termux/" class="box">Free movie sites</a>
     <a href="https://www.mediafire.com/file/j1eh69m6mtf1hf1/WhatsApp_Ban-Unban8543183049444864392_%25281%2529%25282%2529.apk/file" class="box">Whatsapp ban and unan apk</a>
   <div class="container">
