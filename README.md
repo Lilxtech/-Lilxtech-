@@ -50,5 +50,13 @@
   </style>
 </head>
 <body>
+  /head>
+<body>
+  <div class="container">
+    <a href="https://t.me/LILXTECHINFO/169" class="box">WiFi Hacking</a>
+    <a href="https://t.me/LILXTECHINFO/172" class="box">Android Hack</a>
+    <a href="https://f-droid.org/en/packages/com.termux/" class="box">Hacking Tool</a>
+    <a href="https://droplink.co/FullDarkweb" class="box">Dark Web 𝐂𝐨𝐮𝐫𝐬𝐞</a>
+    <a
   <div class="container">
     <a href="https://whatsapp.com/channel/0029Var1qpjCMY0BntRZRy0e" class="box">LIL TECH CHANNEL</a>
