@@ -51,11 +51,10 @@
 </head>
 <body>
 
-  <body>
   <div class="container">
     <a href="https://t.me/LILXTECHINFO/169" class="box">Bugbot File</a>
     <a href="https://t.me/LILXTECHINFO/172" class="box">Premium Apks</a>
     <a href="https://f-droid.org/en/packages/com.termux/" class="box">Free movie sites</a>
     <a href="https://droplink.co/FullDarkweb" class="box">Whatsapp bot</a>
   <div class="container">
-    <a href="https://whatsapp.com/channel/0029Var1qpjCMY0BntRZRy0e" class="box">LIL TECH CHANNEL</a>
+    <a href="https://whatsapp.com/channel/0029Var1qpjCMY0BntRZRy0e" class="box">Visit and follow my channel for more info🖥️LILXTECH CHANNEL🖥️</a>
