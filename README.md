@@ -59,7 +59,7 @@
   <div class="container">
     
    
-          Follow my Channel for more info
+                Follow my Channel And Group for more info
    
    <a href="https://whatsapp.com/channel/0029Var1qpjCMY0BntRZRy0e" class="box">Whatsapp Channel </a>
    <a href="https://chat.whatsapp.com/IhXWPeXhTUBGFvPp2uR3mz" class="box">Whatsapp Group </a>
