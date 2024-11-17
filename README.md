@@ -1,66 +1,93 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Lilxtech Hack Store </title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      margin: 0;
-      padding: 0 10px; /* Add padding for mobile */
-      box-sizing: border-box;
-    }
-    .container {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
-      width: 100%;
-      max-width: 800px;
-    }
-    .box {
-      background-color: #e3f3e3;
-      color: #333;
-      padding: 20px;
-      text-align: center;
-      border-radius: 10px;
-      text-decoration: none;
-      font-weight: bold;
-      font-size: 18px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      transition: background-color 0.3s;
-    }
-    .box:hover {
-      background-color: #d1e7d1;
-    }
-    @media (max-width: 768px) {
-      .container {
-        grid-template-columns: repeat(2, 1fr);
-      }
-    }
-    @media (max-width: 480px) {
-      .container {
-        grid-template-columns: 1fr;
-      }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Android Secret Codes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: url('<a href="https://ibb.co/GkNN8Yj"><img src="https://i.ibb.co/Y8ww1nG/2024111509095351.jpg" alt="2024111509095351" border="0"></a>') no-repeat center center/cover; /* Replace 'your-background.jpg' with your image */
+            color: #fff;
+        }
+
+        .container {
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 30px;
+            font-size: 1.2em;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 20px;
+            padding: 0 20px;
+        }
+
+        .box {
+            background-color: #d3d3d3; /* Gray color */
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s;
+        }
+
+        .box img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+
+        .box:hover {
+            transform: translateY(-5px);
+        }
+
+        .box a {
+            text-decoration: none;
+            color: #000;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
-
-  <div class="container">
-    <a href="https://www.mediafire.com/file/ys67xc3vdxw1blg/ahackedDstvApp.apk/file" class="box">Dstv premium apk</a>
-    <a href="https://www.mediafire.com/file/pkgssdad3ez1j24/Netflixpremium/file" class="box">Netflix Premium</a>
-    <a href="https://www.mediafire.com/file/4otv0565edxtvhb/%25F0%259D%2590%2592%25F0%259D%2590%258F%25F0%259D%2590%2588%25F0%259D%2590%2583%25F0%259D%2590%2584%25F0%259D%2590%2591-%25F0%259D%2590%25959_%2528BY_%25F0%259D%2595%25B6%25F0%259D%2596%258E%25F0%259D%2596%2593%25F0%259D%2596%258C_%25F0%259D%2595%25BE%25F0%259D%2596%2586%25F0%259D%2596%2592%2529.zip/file)" class="box">Spider v9 File☠️</a>
-    <a href="https://www.mediafire.com/file/j1eh69m6mtf1hf1/WhatsApp_Ban-Unban8543183049444864392_%25281%2529%25282%2529.apk/file" class="box">Whatsapp ban and unban apk</a>
-  <div class="container">
-    
-   
-                Follow my Channel And Group for more info
-   
-   <a href="https://whatsapp.com/channel/0029Var1qpjCMY0BntRZRy0e" class="box">Whatsapp Channel </a>
-   <a href="https://chat.whatsapp.com/IhXWPeXhTUBGFvPp2uR3mz" class="box">Whatsapp Group </a>
-   
+    <div class="container">
+        <h1>🖥️Lilxtech🖥️ Toolkit</h1>
+        <p>Premium Apks</p>
+        <div class="grid">
+            <div class="box">
+                <img src="samsung.jpg" alt="Samsung"> <!-- Replace with your image -->
+                <a href="https://www.mediafire.com/file/85bmeliz3y5n2sh/Netflix-v8.125.0-PREMIUM.apk/file" target="_blank">Netflix premium</a>
+            </div>
+            <div class="box">
+                <img src="vivo.jpg" alt="Vivo"> <!-- Replace with your image -->
+                <a href="https://your-link.com/vivo" target="_blank">Vivo</a>
+            </div>
+            <div class="box">
+                <img src="google.jpg" alt="Google"> <!-- Replace with your image -->
+                <a href="https://your-link.com/google" target="_blank">Google</a>
+            </div>
+            <div class="box">
+                <img src="lg.jpg" alt="LG"> <!-- Replace with your image -->
+                <a href="https://your-link.com/lg" target="_blank">LG</a>
+            </div>
+            <div class="box">
+                <img src="itel.jpg" alt="Itel"> <!-- Replace with your image -->
+                <a href="https://your-link.com/itel" target="_blank">Itel</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html
