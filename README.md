@@ -73,19 +73,19 @@
     <h2 class="section-title">Lilxtech Toolkit</h2>
     <div class="grid">
       <div class="grid-item">
-        <img src=<a href="https://ibb.co/kHVVs7C"><img src="https://i.ibb.co/WxNN4hJ/2024111509185266.jpg" alt="2024111509185266" border="0"></a>alt="Premium Apks">
+        <img src=<a href="https://ibb.co/kHVVs7C"><img src="https://i.ibb.co/WxNN4hJ/2024111509185266.jpg" alt="2024111509185266" border="0">
         <span>Premium Apks</span>
       </div>
       <div class="grid-item">
-        <img src="https://via.placeholder.com/50" alt="Vivo">
+        <img src=<a href="https://ibb.co/kHVVs7C"><img src="https://i.ibb.co/WxNN4hJ/2024111509185266.jpg" alt="2024111509185266" border="0"></a>>
         <span>Bot Scripts</span>
       </div>
       <div class="grid-item">
-        <img src="https://via.placeholder.com/50" alt="LG">
+        <img src=<a href="https://ibb.co/kHVVs7C"><img src="https://i.ibb.co/WxNN4hJ/2024111509185266.jpg" alt="2024111509185266" border="0"></a>
         <span>Movie Sites</span>
       </div>
       <div class="grid-item">
-        <img src="https://via.placeholder.com/50" alt="Google">
+        <img src=<a href="https://ibb.co/kHVVs7C"><img src="https://i.ibb.co/WxNN4hJ/2024111509185266.jpg" alt="2024111509185266" border="0"></a>>
         <span>Free Fire Hacks</span>
       </div>
       <div class="grid-item">
