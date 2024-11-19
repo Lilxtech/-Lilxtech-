@@ -70,11 +70,11 @@
 <body>
   <header>Android Secret Codes</header>
   <div class="container">
-    <h2 class="section-title">Master Your Mobile by Secret Code</h2>
+    <h2 class="section-title">Lilxtech Toolkit</h2>
     <div class="grid">
       <div class="grid-item">
         <img src="https://via.placeholder.com/50" alt="Samsung">
-        <span>Samsung</span>
+        <span>Premium Apks</span>
       </div>
       <div class="grid-item">
         <img src="https://via.placeholder.com/50" alt="Vivo">
