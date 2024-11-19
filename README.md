@@ -78,23 +78,23 @@
       </div>
       <div class="grid-item">
         <img src="https://via.placeholder.com/50" alt="Vivo">
-        <span>Vivo</span>
+        <span>Bot Scripts</span>
       </div>
       <div class="grid-item">
         <img src="https://via.placeholder.com/50" alt="LG">
-        <span>LG</span>
+        <span>Movie Sites</span>
       </div>
       <div class="grid-item">
         <img src="https://via.placeholder.com/50" alt="Google">
-        <span>Google</span>
+        <span>Free Fire Hacks</span>
       </div>
       <div class="grid-item">
         <img src="https://via.placeholder.com/50" alt="Itel">
-        <span>Itel</span>
+        <span>Free Uk Tiktok account 🔥</span>
       </div>
       <div class="grid-item">
         <img src="https://via.placeholder.com/50" alt="Unknown">
-        <span>Unknown Fact</span>
+        <span>WhatsApp Bot</span>
       </div>
     </div>
   </div>
