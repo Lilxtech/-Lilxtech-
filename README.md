@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -61,12 +61,12 @@
 </head>
 <body>
     <div class="header">
-        <h1>Master Top Hacking Techniques</h1>
+        <h1>For Educational Purposes Only</h1>
     </div>
     <div class="grid-container">
         <a href="cryptography.html" class="grid-item">
             <img src="https://via.placeholder.com/80" alt="Cryptography">
-            <p>Cryptography</p>
+            <p>Premium Apks</p>
         </a>
         <a href="vapt.html" class="grid-item">
             <img src="https://via.placeholder.com/80" alt="VAPT">
@@ -74,11 +74,11 @@
         </a>
         <a href="mobile_hacking.html" class="grid-item">
             <img src="https://via.placeholder.com/80" alt="Mobile Hacking">
-            <p>Mobile Hacking</p>
-        </a>
+            <p> Cheap Fake Number </p>
+        </a> 
         <a href="website_hacking.html" class="grid-item">
             <img src="https://via.placeholder.com/80" alt="Website Hacking">
-            <p>Website Hacking</p>
+            <p>whatsapp bot</p>
         </a>
     </div>
 </body>
