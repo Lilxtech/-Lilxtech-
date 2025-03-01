@@ -8,7 +8,7 @@
         body {
             margin: 0;
             padding: 0;
-            background-color: black;
+            background-color: Gold;
             color: white;
             font-family: Arial, sans-serif;
         }
@@ -78,15 +78,15 @@
         </div>
         <div class="grid-item">
             <img src="tv-icon.png" alt="Live TV">
-            <p>Live TV</p>
+            <p>Premium apks</p>
         </div>
         <div class="grid-item">
             <img src="chat-icon.png" alt="Chatting">
-            <p>Chatting</p>
+            <p>bug bots</p>
         </div>
         <div class="grid-item">
             <img src="user-icon.png" alt="Users">
-            <p>Users</p>
+            <p>Coding course</p>
         </div>
         <div class="grid-item">
             <img src="tips-icon.png" alt="Tips & Tricks">
@@ -94,7 +94,7 @@
         </div>
         <div class="grid-item">
             <img src="hacking-icon.png" alt="Hacking">
-            <p>Hacking</p>
+            <p>Hacking course</p>
         </div>
         <div class="grid-item">
             <img src="tools-icon.png" alt="Online Tools">
@@ -110,7 +110,7 @@
         </div>
         <div class="grid-item">
             <img src="social-icon.png" alt="Our Social Media">
-            <p>Our Social Media</p>
+            <p>Our Social Media Accounts</p>
         </div>
     </div>
     <div class="footer">
